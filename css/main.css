@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700);
+/** basic reset **/
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Lato', Arial, sans-serif;
+  margin: 3% auto 0;
+  width: 80%;
+}
