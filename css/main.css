@@ -21,6 +21,11 @@ a {
   text-decoration: none;
 }
 nav a {
+  background: orange;
+  color: black;
+  padding: .5em;
+  border-radius: .2em;
+
 }
 nav ul {
   display: flex;
